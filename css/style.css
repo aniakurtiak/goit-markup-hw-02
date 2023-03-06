@@ -51,7 +51,7 @@ body {
 
 /* ============ HEADER ============ */
 /* Navigation */
-.logo-link1 {
+.logo1 {
     font-family: var(--secondary-font);
     font-weight: 800;
     font-size: 18px;
@@ -63,7 +63,7 @@ body {
     color: #4D5AE5;
 }
 
-.logo-link2 {
+.logo2 {
     color: var(--title-text-color);
 }
 
@@ -175,6 +175,6 @@ body {
     background: #2E2F42;
 }
 
-.logo-link3 {
+.logo3 {
     color: #F4F4FD;
 }
